@@ -16,25 +16,25 @@
   <tr>   
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667" width="48" height="48" alt="JavaScript" />
+        <img src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/andyhoanghuu/andyhoanghuu/raw/master/logo/magento.png" width="48" height="48" alt="JavaScript" />
+        <img src="/logo/magento.png" width="48" height="48" alt="Magento" />
       </a>
       <br>Magento
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/andyhoanghuu/andyhoanghuu/raw/master/logo/wordpress.png" width="48" height="48" alt="JavaScript" />
+        <img src="/logo/wordpress.png" width="48" height="48" alt="WordPress" />
       </a>
       <br>WordPress
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="/andyhoanghuu/andyhoanghuu/raw/master/logo/woocommerce.png" width="48" height="48" alt="JavaScript" />
+        <img src="/logo/woocommerce.png" width="48" height="48" alt="WooCommerce" />
       </a>
       <br>WooCommerce
     </td>
@@ -72,19 +72,19 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48" height="48" alt="MySQL" />
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="48" height="48" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="MySQL" />
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="MySQL" />
+        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS" />
       </a>
       <br>CSS
     </td>
