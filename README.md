@@ -146,11 +146,13 @@ I am a careful person at work, always listening to customers, constantly learnin
 - Ability to work independently as well as in group/team
 - Ability to work with some project management tool like **Trello**, **Asana**, **Jira**
 
-<h3 align="left">Spotify Playing</h3>
+### 🎧 Spotify Playing
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AndyHoangHuu Spotify Playing" width="350" />](https://open.spotify.com/user/zlz67y4c0sv65hwnx9c4e7zot)
 
+---
+
 <h3 align="left">How to reach me</h3>
-- :octocat: [Github@andyhoanghuu](https://github.com/andyhoanghuu)
-- :email: [andyhoanghuu@gmail.com](mailto:andyhoanghuu@gmail.com)
-- :bird:[twitter@andyhoanghuu](https://twitter.com/andyhoanghuu/)
-- Skype [hoangnh694@gmail.com](https://join.skype.com/invite/NfQ8gVnQ0bQj)
+- Github: [Github@andyhoanghuu](https://github.com/andyhoanghuu)
+- Email: [andyhoanghuu@gmail.com](mailto:andyhoanghuu@gmail.com)
+- Twitter: [twitter@andyhoanghuu](https://twitter.com/andyhoanghuu/)
+- Skype: [hoangnh694@gmail.com](https://join.skype.com/invite/NfQ8gVnQ0bQj)
