@@ -122,8 +122,10 @@ I am a careful person at work, always listening to customers, constantly learnin
   <img src="https://github-readme-stats.vercel.app/api?username=andyhoanghuu&show_icons=true&count_private=true&include_all_commits=true&theme=gotham" alt="andyhoanghuu" align="right" />
 </a>
 
-- Magento 2 Extensions
+- Develop **Magento 2 Extensions**
+- Experience in **coding standards** and help tools.
 - Deploy products with **Docker**, **Nginx**
+- Used to work with Github actions **CI/CD**
 - WordPress theme & plugin
 - ThemeForest & Envato experience
 - Extensive experience in using the page builder plugins (**Visual Composer**, **Elementor**, **Gutenberg**,...)
@@ -141,17 +143,16 @@ I am a careful person at work, always listening to customers, constantly learnin
 - Work comfortably with version control systems such as **Git**, **SVN**. Manage and collaborate repositories with a team by **Github**, **Gitlab**, **Bitbucket**
 - Knowledge of using **Gulp**, **BrowserSync**, **NPM**
 - Experience working in a design/UX driven environment
-- English Good problem-solving, collaboration, and communication skills
-- Support customers 100% English
+- English Good problem-solving, collaboration, and researching skills
+- Basic communication English
 - Ability to work independently as well as in group/team
-- Ability to work with some project management tool like **Trello**, **Asana**, **Jira**
+- Ability to work with some project management tool like **Jira**, **Trello**, **Asana**, 
 
 ### 🎧 Spotify Playing
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AndyHoangHuu Spotify Playing" width="350" />](https://open.spotify.com/user/zlz67y4c0sv65hwnx9c4e7zot)
 
 ---
 - 📫 How to reach me:
-    - Github: [Github@andyhoanghuu](https://github.com/andyhoanghuu)
     - Email: [andyhoanghuu@gmail.com](mailto:andyhoanghuu@gmail.com)
     - Twitter: [twitter@andyhoanghuu](https://twitter.com/andyhoanghuu/)
     - Skype: [hoangnh694@gmail.com](https://join.skype.com/invite/NfQ8gVnQ0bQj)
