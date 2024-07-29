@@ -13,10 +13,6 @@
 <a href="mailto:andyhoanghuu@gmail.com">
   <img align="left" alt="AndyHoangHuu's Gmail" width="22px" src="/logo/gmail.png" />
 </a>
-<a href="https://open.spotify.com/playlist/1ex1JPB1QTz8NHNNR82c5w">
-  <img align="left" alt="AndyHoangHuu's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
-
 <a href="https://github.com/andyhoanghuu/andyhoanghuu">
     <img src="https://gpvc.arturio.dev/andyhoanghuu" alt="profile views">
 </a>
@@ -147,9 +143,6 @@ I am a careful person at work, always listening to customers, constantly learnin
 - Basic communication English
 - Ability to work independently as well as in group/team
 - Ability to work with some project management tool like **Jira**, **Trello**, **Asana**, 
-
-### 🎧 Spotify Playing
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="AndyHoangHuu Spotify Playing" width="350" />](https://open.spotify.com/user/zlz67y4c0sv65hwnx9c4e7zot)
 
 ---
 - 📫 How to reach me:
