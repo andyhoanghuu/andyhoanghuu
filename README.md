@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
 <a href="https://www.linkedin.com/in/andyhoanghuu/">
-  <img align="left" alt="AndyHoangHuu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="AndyHoangHuu's LinkedIN" width="22px" src="/logo/linkedin.png" />
 </a>
 <a href="https://join.skype.com/invite/NfQ8gVnQ0bQj">
   <img align="left" alt="AndyHoangHuu's Skype" width="22px" src="/logo/skype.png" />
@@ -21,7 +21,7 @@ I am a careful person at work, always listening to customers, constantly learnin
   <tr>   
     <td align="center" width="96">
       <a href="#andyhoanghuu-tech">
-        <img src="https://camo.githubusercontent.com/ee7c2a37b02913fa0c8391d5ac4902336333e57dde7ab47ace2fb2e01ed1682e/68747470733a2f2f7777772e7068702e6e65742f696d616765732f6c6f676f732f6e65772d7068702d6c6f676f2e737667" width="48" height="48" alt="PHP" />
+        <img src="/logo/php.png" width="48" height="48" alt="PHP" />
       </a>
       <br>PHP
     </td>
