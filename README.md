@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andy Hoang Huu</h1>
 <h3 align="center">A passionate fullstack developer from Vietnam</h3>
 
-<a href="https://twitter.com/andyhoanghuu">
-  <img align="left" alt="Andy Hoang Huu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/andyhoanghuu/">
   <img align="left" alt="AndyHoangHuu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -12,9 +9,6 @@
 </a>
 <a href="mailto:andyhoanghuu@gmail.com">
   <img align="left" alt="AndyHoangHuu's Gmail" width="22px" src="/logo/gmail.png" />
-</a>
-<a href="https://github.com/andyhoanghuu/andyhoanghuu">
-    <img src="https://gpvc.arturio.dev/andyhoanghuu" alt="profile views">
 </a>
 <a href="https://github.com/andyhoanghuu?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/andyhoanghuu?color=green&logo=github">
