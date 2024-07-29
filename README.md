@@ -18,7 +18,13 @@
 I am a careful person at work, always listening to customers, constantly learning and increasing my skills. WordPress is something that interests me in my student years. Time after that, I got interested in Magento 2 and really loved it. No matter any new programming language or technology, I want to conquer it for the job.
 <h3 align="left">Skills</h3>
 <table>
-  <tr>   
+  <tr>
+    <td align="center" width="96">
+      <a href="#andyhoanghuu-tech">
+        <img src="/logo/python.png" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
     <td align="center" width="96">
       <a href="#andyhoanghuu-tech">
         <img src="/logo/php.png" width="48" height="48" alt="PHP" />
